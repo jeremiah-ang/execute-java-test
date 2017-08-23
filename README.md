@@ -12,25 +12,25 @@ The java file should have the first character Capitalised and in the same direct
 
 ##### Input 
 
-Input files are stored in `input/` folder 
-files in it should have the same name as the project 
-all **lower case** 
-with extension `.in`
+- Input files are stored in `input/` folder 
+- Files in it should have the same name as the project 
+- All **lower case** 
+- With extension `.in`
 
 > `input/addition1.in`
 
 ##### Output
 
-Expected output files are stored in `output/` folder 
-files in it should have the same name as the project 
-all **lower case** 
-with extension `.out`
+- Expected output files are stored in `output/` folder 
+- Files in it should have the same name as the project 
+- All **lower case** 
+- With extension `.out`
 
 > `output/addition1.out`
 
 ##### Using it 
 
-simply execute 
+Simply execute 
 
 > sh test-task.sh <Project Name> <Test Number(Optional)>
 
