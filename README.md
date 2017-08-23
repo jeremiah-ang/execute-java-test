@@ -8,21 +8,24 @@ This is a mini template for NUS students who needs to run their test against som
 
 The java file should have the first character Capitalised and in the same directory as `test-task.sh`
 
-i.e. 
 > `Addition.java`
 
 ##### Input 
 
-input files are stored in `input` folder and the files in it should have the same name as the project but all **lower case** with extension `.in`
+Input files are stored in `input/` folder 
+files in it should have the same name as the project 
+all **lower case** 
+with extension `.in`
 
-i.e. 
 > `input/addition1.in`
 
 ##### Output
 
-output files are stored in `output` folder and the files in it should have the same name as the project but all **lower case** with extension `.out`
+Expected output files are stored in `output/` folder 
+files in it should have the same name as the project 
+all **lower case** 
+with extension `.out`
 
-i.e. 
 > `output/addition1.out`
 
 ##### Using it 
