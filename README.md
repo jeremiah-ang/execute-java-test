@@ -2,13 +2,13 @@
 
 This is a mini template for NUS students who needs to run their test against some input files and check the difference against some output file 
 
-##### Installing
+### Installing
 
 Simply clone the repository and start working on it :) 
 
 `git clone https://github.com/jeremiah-ang/execute-java-test`
 
-##### Folders and Naming
+### Folders and Naming
 
 ##### Project 
 
