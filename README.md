@@ -10,13 +10,13 @@ Simply clone the repository and start working on it :)
 
 ### Folders and Naming
 
-##### Project 
+#### Project 
 
 The java file should have the first character Capitalised and in the same directory as `test-task.sh`
 
 > `Addition.java`
 
-##### Input 
+#### Input 
 
 - Input files are stored in `input/` folder 
 - Files in it should have the same name as the project 
@@ -25,7 +25,7 @@ The java file should have the first character Capitalised and in the same direct
 
 > `input/addition1.in`
 
-##### Output
+#### Output
 
 - Expected output files are stored in `output/` folder 
 - Files in it should have the same name as the project 
@@ -34,7 +34,7 @@ The java file should have the first character Capitalised and in the same direct
 
 > `output/addition1.out`
 
-##### Using it 
+#### Using it 
 
 Simply execute 
 
